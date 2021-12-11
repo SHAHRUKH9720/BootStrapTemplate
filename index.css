@@ -1,0 +1,89 @@
+.Row-1{
+    background: linear-gradient(rgba(19, 117, 44,0.5),rgba(19, 117, 44,0.5)),
+    url('images/pexels-andrea-piacquadio-935743.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+#banner-text p{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+   
+}
+#banner-btn{
+    border: 1px solid white;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    padding: 0px 30px;
+    background-color: rgb(201, 15, 15);
+    color: white;
+    margin-top: 40px;
+
+}
+
+
+.forIcon{
+    padding: 20px; background-color: rgb(23, 23, 56); 
+    display: inline-block;
+     border-radius: 50%;
+}
+.forIcon i{
+    font-size: 48px;
+    color: #fff;
+    line-height: 48px;
+}
+
+
+.Row-3{
+    background: linear-gradient(rgba(19, 117, 44,0.9),rgba(19, 117, 44,0.5)),
+    url('images/pexels-andrea-piacquadio-935743.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    
+    
+}
+.img-border{
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+.setcol{
+    
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    /* margin-left: 50px; */
+}
+#forMar{
+    margin-right: 50px;
+}
+
+
+.Row4-img{
+    /* width:450px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 55px;
+}
+ 
+
+.Row-5 {
+    background: linear-gradient(rgba(19, 117, 44,0.5),rgba(19, 117, 44,0.5)),
+    url('images/513e4f5274ec48f29b894b0b8409658f.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}   
+
+
+.row-7 {
+    background: linear-gradient(rgba(19, 117, 44,0.5),rgba(19, 117, 44,0.5)),
+    url('images/pexels-andrea-piacquadio-935743.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
